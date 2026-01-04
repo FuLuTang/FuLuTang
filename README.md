@@ -1,8 +1,8 @@
 ### Hi, I'm **FuLu** 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuLuTang&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuLuTang&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FuLuTang&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuLuTang&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
 </p>
 
 ---

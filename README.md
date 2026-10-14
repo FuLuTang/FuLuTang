@@ -18,3 +18,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/FuLuTang/FuLuTang/main/github-metrics.svg" />
 </p>
+
+[Bilibili](https://space.bilibili.com/512378526)
